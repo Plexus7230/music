@@ -32,7 +32,11 @@ const songs = [
         displayName: 'Dusk Till Dawn',
         artist: 'Zayn ft. Sia'
     },
-
+    {
+        name: 'unstoppable',
+        displayName: 'Unstoppable',
+        artist: 'Sia'
+    },
 ]
 
 // Check If Playing
